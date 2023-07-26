@@ -24,5 +24,5 @@ This is my Personal Portfolio website made by using multiple front end technolog
 
 ![3](https://github.com/Omrai629/Portfolio-Website/assets/105283886/16d4f37f-a7dd-4591-8db2-126252747763)
 
-###PS: If viewing on mobile, please view in desktop site as making the website responsive is under progress :)
+## PS: If viewing on mobile, please view in desktop site as making the website responsive is under progress :)
 
