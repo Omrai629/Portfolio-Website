@@ -7,3 +7,10 @@ This is my Personal Portfolio website made by using multiple front end technolog
 3) SkillSet
 4) Portfolio
 5) Contact details
+
+## Technology Used
+1) HTML5
+2) CSS3
+3) Bootstrap
+4) Javascript
+   
